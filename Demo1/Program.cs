@@ -12,6 +12,8 @@ namespace Demo1
         static void Main(string[] args)
         {
             Console.WriteLine("Hellooooooooooooo");
+            Check ob=new Check();
+            ob.m1();
             Console.ReadLine();
             
         }
